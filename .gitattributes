@@ -2,3 +2,4 @@
 /tests/expected/* linguist-vendored
 /tests/fixtures/* linguist-vendored
 box export-ignore
+/tests/.phpunit.result.cache
